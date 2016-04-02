@@ -8,7 +8,6 @@ main()
     scanf("%d", &a);
     printf("Really? I am also %d\n",a);
     printf("Intresting huh?\n");
-    printf("I just added a new line with Code\n");
-    printf("added another\n");
-    return 0;
+    printf("I just added a new line with Code\n");	    
+return 0;
 }
