@@ -7,5 +7,6 @@ int main()
     printf("I will calculate what ever commands you enter\n");
     printf("Enter 'q' to quit\n");
     printf(": ");
+    printf("This is exciting\n", );
 return 0;
 }
